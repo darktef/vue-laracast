@@ -1,8 +1,7 @@
-Vue.component('progress-view', {
+Vue.component('message', {
   props:[],
   data() {
-    return { 
-      completionRate: 50
+    return {
     }
   }, 
   template:`
